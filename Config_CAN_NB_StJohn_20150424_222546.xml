@@ -1,0 +1,56 @@
+<config>
+    <productType>Flood</productType>
+    <productSubtype> </productSubtype>
+    <eventType>Flood</eventType>
+    <productFileName>Flood_CAN_NB_StJohn_20150424_222546.shp</productFileName>
+    <version>1.0</version>
+    <confidenceLevelEN>Moderate</confidenceLevelEN>
+    <confidenceLevelFR>Modéré</confidenceLevelFR>
+    <swathFileName> </swathFileName>
+    <swathID>NB_Fredericton_20150424_222546</swathID>
+    <countryCode>CAN</countryCode>
+    <countryNameEN>Canada</countryNameEN>
+    <countryNameFR>Canada</countryNameFR>
+    <subdivisionCodeClient>NB</subdivisionCodeClient>
+    <subdivisionNameEN>New-Brunswick</subdivisionNameEN>
+    <subdivisionNameFR>Nouveau Brunswick</subdivisionNameFR>
+    <aoiType>watershed-3</aoiType>
+    <aoiCode>StJohn</aoiCode>
+    <aoiEN>St. John</aoiEN>
+    <aoiFR>Saint-Jean</aoiFR>
+    <targetEN>Saint John River</targetEN>
+    <targetFR>Rivière Saint-Jean</targetFR>
+    <regionEN>Fredericton, New-Brunswick</regionEN>
+    <regionFR>Frédéricton, Nouveau Brunswick</regionFR>
+    <titleEN>Flood Extent Polygon - Fredericton, New-Brunswick - 2015-04-24 22:25:46</titleEN>
+    <titleFR>Polygone d'étendue d'inondation - Frédéricton, Nouveau Brunswick - 2015-04-24 22:25:46</titleFR>
+    <productNotesEN> </productNotesEN>
+    <productNotesFR> </productNotesFR>
+    <dateUTC>2015-04-24</dateUTC>
+    <timeUTC>22:25:46</timeUTC>
+    <datetimeRangeStartUTC> </datetimeRangeStartUTC>
+    <datetimePublicationUTC> </datetimePublicationUTC>
+    <sensorType>SAR</sensorType>
+    <sensorName>RADARSAT-2</sensorName>
+    <sensorCopyrightBrief>RADARSAT-2  Data and Products © Maxar
+Technologies Ltd. (2015) - All Rights Reserved.
+Official mark of CSA.</sensorCopyrightBrief>
+    <sensorCopyrightFull>RADARSAT-2  Data and Products © Maxar
+Technologies Ltd. (2015) - All Rights Reserved.
+RADARSAT is an official mark of the Canadian
+Space Agency.</sensorCopyrightFull>
+    <beam> </beam>
+    <resolution> </resolution>
+    <polarization>NULL</polarization>
+    <incidenceAngle> </incidenceAngle>
+    <orbitDirection> </orbitDirection>
+    <minimumPolygonSize> </minimumPolygonSize>
+    <sensorProperties> </sensorProperties>
+    <additionalProperties> </additionalProperties>
+    <packageURLFtp>sftp://sirs-sris.nrcan-rncan.gc.ca/2015/Flood/CAN/NB/Flood_CAN_NB_StJohn_20150424_222546.zip</packageURLFtp>
+    <packageURLHttp>https://data.eodms-sgdot.nrcan-rncan.gc.ca/public/EGS/2015/Flood/CAN/NB/Flood_CAN_NB_StJohn_20150424_222546.zip</packageURLHttp>
+    <extentMinX>-67.2510238</extentMinX>
+    <extentMaxX>-65.7370631</extentMaxX>
+    <extentMinY>45.346217</extentMinY>
+    <extentMaxY>46.1474002</extentMaxY>
+</config>

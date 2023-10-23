@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:Abridged_Metadata
+ xmlns:gmd="http://www.isotc211.org/2005/gmd"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:gco="http://www.isotc211.org/2005/gco">
+  <gmd:fileIdentifier>
+    <gco:CharacterString>04ddb4b7-4d17-5b76-a939-a35e427d1ab6</gco:CharacterString>
+  </gmd:fileIdentifier>
+  <gmd:date>
+    <gco:Date>2021-08-05 ET</gco:Date>
+  </gmd:date>
+  <gmd:series>
+    <gco:CharacterString>Open Water Flood Extent Polygons</gco:CharacterString>
+    <gmd:LocalisedCharacterString locale="#FR">Polygones de l'étendue des eaux libres liées aux inondations</gmd:LocalisedCharacterString>
+    <gmd:issueIdentification xsi:type="gmd:PT_FreeText_PropertyType">
+      <gco:CharacterString>Flood Extent Polygon - Fredericton, New-Brunswick - 2015-04-24 22:25:46 UTC</gco:CharacterString>
+        <gmd:LocalisedCharacterString locale="#FR">Polygone d'étendue d'inondation - Frédéricton, Nouveau Brunswick - 2015-04-24 22:25:46 UTC</gmd:LocalisedCharacterString>
+      <gco:CharacterString>Fredericton, New-Brunswick</gco:CharacterString>
+        <gmd:LocalisedCharacterString locale="#FR">Frédéricton, Nouveau Brunswick</gmd:LocalisedCharacterString>
+    </gmd:issueIdentification>
+  </gmd:series>
+  <gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+    <gco:CharacterString>Flood extent polygons representing floods throughout Canada as monitored by Natural Resources Canada using satellite imagery for emergency response.  In response to large flood events, Natural Resources Canada (NRCan), for the provision of emergency geomatics services, may be activated by Canada’s emergency management protocols.  As new satellite imagery becomes available, NRCan will extract flood extent polygons and update the dataset in near real time (4 hours).  The flood products are generated and validated on a best effort basis. Various factors may affect the quality of the flood polygons.  Those factors include but are not limited to: sensor type, image resolution, cloud coverage or limits to the flood polygon extraction the method.
+	Disclaimer:
+    Emergency response authorities are the primary users of these satellite-derived open water flood extent map products. 
+    These products are generated to provide analysis and emergency response situational awareness and to facilitate decision-making during major flood events. 
+    The open water flood extent products are generated rapidly and limited time is available for editing and validation. 
+    The flood products reflect the open water flood conditions at the date/time of acquisition. 
+    While efforts are made to produce high quality products, near-real time products may contain errors due to the limited time available for vector editing and validation. 
+    Please note that current algorithms do not map flooded areas under the forest canopy and are not optimized for urban flood mapping. 
+    
+    Limitation of Liability:
+    Accordingly, the information contained on this website is provided on an "as is" basis and Natural Resources Canada makes no representations or warranties respecting the information, either expressed or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose. 
+    Natural Resources Canada does not assume any liability in respect of any damage or loss based on the use of this website. In no event shall Natural Resources Canada be liable in any way for any direct, indirect, special, incidental, consequential, or other damages based on any use of this website or any other website to which this site is linked, including, without limitation, any lost profits or revenue or business interruption.
+
+	 
+	</gco:CharacterString>
+      <gmd:LocalisedCharacterString locale="#FR">Polygones d’étendues des inondations au Canada telles que cartographiées par Ressources naturelles Canada à partir d’imagerie satellitaire pour la gestion des urgences.  En réponse aux événements d’inondations, les services de géomatique d’urgence de Ressources naturelles Canada sont parfois activés par les protocoles de gestion des urgences du Canada.  Alors que de nouvelles images satellites deviennent accessibles, RNCan fera l’extraction des polygones d’étendues des inondations et mettra à jour cette couche en temps quasi réel (4 heures).  Les produits d’inondation générés sont validés au meilleur des informations accessibles.  Plusieurs facteurs peuvent affecter la qualité des produits.  Ces facteurs inclus, mais ne sont pas limités à: type de capteur, résolution de l’image, couverture nuageuse ou les limites à la méthode d’extraction des polygones d’inondations.
+    
+    Avis de non-responsabilité : 
+    Les autorités d’intervention d’urgence sont les principaux utilisateurs des produits cartographiques de l’étendue des inondations en eaux libres, générées à partir de données satellitaires. 
+    Ces produits sont créés pour rendre compte de la situation, permettre de l’analyser et faciliter le processus décisionnel pour les interventions d’urgence lors d’inondations importantes. 
+    Les produits sont générés rapidement, ce qui laisse peu de temps pour leur édition et leur validation. Ils montrent l’étendue des inondations à la date et à l’heure de l’acquisition des images. 
+    Bien que tout soit fait pour en garantir la qualité, ces produits en temps quasi réel peuvent contenir des erreurs. 
+    Il est à noter que les algorithmes actuels ne permettent pas de cartographier les zones inondées sous couvert forestier et qu’ils ne sont pas optimisés pour cartographier des inondations en milieu urbain.
+ 
+    Limitation de responsabilité : 
+    En conséquence, les renseignements présentés sur ce site Web sont fournis tels quels, ainsi Ressources naturelles Canada ne fait aucune déclaration et ne donne aucune garantie découlant de la loi ou d’une autre source, ni implicitement ni explicitement, notamment quant à leur efficacité, leur intégralité, leur exactitude ou leur justesse pour une fin particulière. 
+    Ressources naturelles Canada ne sera pas responsable des dommages ou des pertes subis à la suite de l’utilisation des renseignements présentés par ce site Web. En aucun cas, Ressources naturelles Canada ne pourra être tenu responsable relativement aux conséquences directes, indirectes, spéciales ou accessoires ou à d’autres dommages découlant de l’usage de ce site Web ou de tout autre site Web auquel il est lié, y compris, mais sans s’y limiter, toute perte de profits ou de revenus ou toute interruption d’activités commerciales.
+
+       
+	  </gmd:LocalisedCharacterString>
+  </gmd:abstract>
+  <gmd:specifications xsi:type="gmd:PT_FreeText_PropertyType">
+    <gco:CharacterString>Derived flood extent.
+Water body: Saint John River
+Source: RADARSAT-2  
+Polarisation: NULL
+Resolution:  
+Acquisition date and time: 2015-04-24 22:25:46 UTC
+Minimum polygon size:  
+Sensor properties applied to product:  
+Product confidence level and version: Moderate V1.0</gco:CharacterString>
+    <gmd:LocalisedCharacterString locale="#FR">Étendue dérivée des inondations.
+Plan d'eau:  Rivière Saint-Jean
+Source: RADARSAT-2  
+Polarisation: NULL
+Résolution:  
+Date et heure d’acquisition: 2015-04-24 22:25:46 UTC
+Dimension minimale des polygones:  
+Propriétés du capteur appliquées au produit:  
+Niveau de confiance et version du produit: Modéré V1.0</gmd:LocalisedCharacterString>
+  </gmd:specifications>
+  <gmd:supplementalInformation>
+    <gco:CharacterString></gco:CharacterString>
+      <gmd:LocalisedCharacterString locale="#FR"></gmd:LocalisedCharacterString>
+  </gmd:supplementalInformation>
+  <gmd:code>
+    <gco:CharacterString>EPSG:4326</gco:CharacterString>
+  </gmd:code>
+  <gmd:codeSpace>
+    <gco:CharacterString>http://www.epsg-registry.org/</gco:CharacterString>
+  </gmd:codeSpace>
+  <gmd:EX_GeographicBoundingBox>
+    <gmd:extentTypeCode>
+      <gco:Boolean>1</gco:Boolean>
+    </gmd:extentTypeCode>
+    <gmd:westBoundLongitude>
+      <gco:Decimal>-67.2510238</gco:Decimal>
+    </gmd:westBoundLongitude>
+    <gmd:eastBoundLongitude>
+      <gco:Decimal>-65.7370631</gco:Decimal>
+    </gmd:eastBoundLongitude>
+    <gmd:southBoundLatitude>
+      <gco:Decimal>45.346217</gco:Decimal>
+    </gmd:southBoundLatitude>
+    <gmd:northBoundLatitude>
+      <gco:Decimal>46.1474002</gco:Decimal>
+    </gmd:northBoundLatitude>
+  </gmd:EX_GeographicBoundingBox>
+  <gmd:distributionFormat>
+    <gco:CharacterString>Shape - ESRI™</gco:CharacterString>
+    <gco:CharacterString>Keyhole Markup Language</gco:CharacterString>
+  </gmd:distributionFormat>
+  <gmd:MD_LegalConstraints>
+    <gmd:useLimitation xsi:type="gmd:PT_FreeText_PropertyType">
+      <gco:CharacterString>Open Government Licence - Canada (http://data.gc.ca/eng/open-government-licence-canada)</gco:CharacterString>
+      <gmd:PT_FreeText>
+        <gmd:textGroup>
+          <gmd:LocalisedCharacterString locale="#FR">Licence du gouvernement ouvert - Canada (http://donnees.gc.ca/fra/licence-du-gouvernement-ouvert-canada)</gmd:LocalisedCharacterString>
+        </gmd:textGroup>
+      </gmd:PT_FreeText>
+    </gmd:useLimitation>
+    <gmd:useConstraints>
+      <gmd:MD_RestrictionCode codeListValue="RI_606" codeList="http://nap.geogratis.gc.ca/metadata/register/napMetadataRegister.xml#IC_107">license; licence</gmd:MD_RestrictionCode>
+    </gmd:useConstraints>
+    <gmd:useLimitation xsi:type="gmd:PT_FreeText_PropertyType">
+      <gco:CharacterString>Use of this data for publications, posters, or presentations is encouraged. All use must include the following standard acknowledgement paragraph: "The flood extent products are derived from RADARSAT-2 images with a system developed and operated by the Department of Natural Resources Canada. © All rights reserved." For questions please contact the Emergency Geomatics Service (nrcan.egs-sgu.rncan@canada.ca).</gco:CharacterString>
+      <gmd:LocalisedCharacterString locale="#FR">L'utilisation de ces données dans des publications, des affiches ou des présentations est encouragée. Toute utilisation doit inclure le paragraphe de reconnaissance standard suivant: "Les produits d'étendue d'inondation sont dérivés d'imagerie RADARSAT-2 avec un système développé et opéré par le Ministère des Ressources naturelles du Canada. © Tous droits réservés." Pour toute question veuillez contacter le Service de Géomatique d'Urgence (nrcan.egs-sgu.rncan@canada.ca).</gmd:LocalisedCharacterString>
+    </gmd:useLimitation>
+    <gmd:useConstraints>
+      <gmd:MD_RestrictionCode codeListValue="RI_602" codeList="http://nap.geogratis.gc.ca/metadata/register/napMetadataRegister.xml#IC_107">copyright; droitAuteur</gmd:MD_RestrictionCode>
+    </gmd:useConstraints>
+  </gmd:MD_LegalConstraints>
+</gmd:Abridged_Metadata>
